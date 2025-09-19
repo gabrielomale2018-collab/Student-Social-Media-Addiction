@@ -1,9 +1,19 @@
-# ANALYSIS REPORT
-STUDENTS SOCIAL MEDIA ADDICTION ANALYSIS
-## INTRODUCTION:
+# DATA ANALYSIS REPORT ON STUDENTS SOCIAL MEDIA ADDICTION
+
+## Table of Contents
+- [Introduction](#Introduction)
+- [Problem Statement](#Problem-Statement)
+- [Objectives](#Objectives)
+- [Insights](#Insights)
+- [Recommendations](#Recommendations)
+- [Conclusion](#Conclusion)
+
+## INTRODUCTION
 Social media has become deeply embodied into students’ lives, serving as a medium for connection, entertainment, and learning. However, excessive use of social media may come with unintended consequences as seen in the data, such as reduced academic performance, sleep deprivation, mental health challenges, and interpersonal conflicts.
+
 ## PROBLEM STATEMENT
 While social media offers numerous benefits, its overuse may negatively impact student well-being and academic success. This study analyses the relationship between students’ social media habits and their academic, psychological, and social outcomes. (By analysing the dataset, we aim to identify which platforms are most used, the extent of addiction, and the effects on mental health, and academic performance).
+
 ## OBJECTIVES
 1.	To analyse the relationship between students’ social media habits and their academic outcomes
 2.	To identify which platforms are most used by the students
