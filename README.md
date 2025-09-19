@@ -32,9 +32,10 @@ The Platform or Channel with the most users is Instagram, with total number of 2
  
 1.	The Age Group of 20 has the highest score of addiction to Social Media with the rate of 23.40%. followed by the age group of 19, with the rate of 23.12%. The least age group with the addiction score is 18 with the rate of 1.99%.
  
-2.	The Group of Academic Levels with the highest rate of addiction to Social Media are the Undergraduate Level with the rate of 50.07% . Followed by the Graduate Levels with rate of 46.10%. The least score of Addiction to Social Media are the High School Levels with the rate of 3.83%. 
+2.	The Group of Academic Levels with the highest rate of addiction to Social Media are the Undergraduate Level with the rate of 50.07% . Followed by the Graduate Levels with rate of 46.10%. The least score of Addiction to Social Media are the High School Levels with the rate of 3.83%.
+![Dataset Dashboard](https://github.com/gabrielomale2018-collab/Student-Social-Media-Addiction/commit/de695e943fe701dd94307194e843efd80090cfaa)
  
-3.	The country with the highest score of Addiction is India with the addiction rate of 18.2%. USA has the second addiction rate of 15.7%. 
+4.	The country with the highest score of Addiction is India with the addiction rate of 18.2%. USA has the second addiction rate of 15.7%. 
 ## RECOMMENDATIONS:
 1.	The School authority should encourage no social media after 10 PM. This would improve their sleep Time and mental health.
 2.	The school should also introduce digital wellness or workshops specifically for undergraduates, and emphasize on their healthy boundaries around social media.
