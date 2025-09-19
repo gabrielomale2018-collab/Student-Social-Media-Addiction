@@ -32,6 +32,7 @@
 
 ## Dashboard
 ![Dataset Dashboard](https://github.com/gabrielomale2018-collab/Student-Social-Media-Addiction/blob/main/Annotation%202025-09-19%20154949.png)
+![Dataset Dashboard](https://github.com/gabrielomale2018-collab/Student-Social-Media-Addiction/blob/main/Annotation%202025-09-19%20155348.png)
 
 ## RECOMMENDATIONS:
 ##### 1.	The School authority should encourage no social media after 10 PM. This would improve their sleep Time and mental health.
