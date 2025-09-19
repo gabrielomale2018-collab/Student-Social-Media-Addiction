@@ -34,6 +34,9 @@
 ![Dataset Dashboard](https://github.com/gabrielomale2018-collab/Student-Social-Media-Addiction/blob/main/Annotation%202025-09-19%20154949.png)
 ![Dataset Dashboard](https://github.com/gabrielomale2018-collab/Student-Social-Media-Addiction/blob/main/Annotation%202025-09-19%20155348.png)
 
+## Dataset
+![Excel Dataset](https://github.com/gabrielomale2018-collab/Student-Social-Media-Addiction/blob/main/Annotation%202025-09-19%20155632.png)
+
 ## RECOMMENDATIONS:
 ##### 1.	The School authority should encourage no social media after 10 PM. This would improve their sleep Time and mental health.
 ##### 2.	The school should also introduce digital wellness or workshops specifically for undergraduates, and emphasize on their healthy boundaries around social media.
