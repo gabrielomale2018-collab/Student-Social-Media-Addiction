@@ -38,7 +38,7 @@
 ![Excel Dataset](https://github.com/gabrielomale2018-collab/Student-Social-Media-Addiction/blob/main/Annotation%202025-09-19%20155632.png)
 
 ## RECOMMENDATIONS:
-##### 1.	The School authority should encourage no social media after 10 PM. This would improve their sleep Time and mental health.
+##### 1.The secondary school authorities should discourage the use of social media after 10 PM for their boarders. This would improve their sleep Time and mental health.
 ##### 2.	The school should also introduce digital wellness or workshops specifically for undergraduates, and emphasize on their healthy boundaries around social media.
 ##### 3.	Teaching the risks of apps like Instagram, TikTok, & Snapchat. Educate them about the side effects of these apps and encourage mindful usage of them.
 ##### 4.	The school should also form peer group discussion where students can talk openly about their digital habits, share tips, and support one another in cutting down screen time. 
